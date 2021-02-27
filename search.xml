@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/1978/01/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Welcome</title>
     <url>/2020/10/06/Welcome/</url>
     <content><![CDATA[<p>欢迎来到我的博客(<a href="https://whitemu-bilibili.github.io/">https://whitemu-bilibili.github.io/</a>)! 本博客基于hexo博客框架制作</p>
@@ -46,6 +28,24 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/1978/01/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo基本语法</title>
     <url>/1978/01/01/hexo%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="创建新的博客"><a href="#创建新的博客" class="headerlink" title="创建新的博客"></a>创建新的博客</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
@@ -57,6 +57,171 @@
 <h3 id="部署到远程服务器"><a href="#部署到远程服务器" class="headerlink" title="部署到远程服务器"></a>部署到远程服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
 
 ]]></content>
+  </entry>
+  <entry>
+    <title>《魔女之旅》ED全解析</title>
+    <url>/2021/02/02/%E3%80%8A%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%E3%80%8BED%E5%85%A8%E8%A7%A3%E6%9E%90/</url>
+    <content><![CDATA[<h1 id="《魔女之旅》ED全解析"><a href="#《魔女之旅》ED全解析" class="headerlink" title="《魔女之旅》ED全解析"></a>《魔女之旅》ED全解析</h1><p><em>『那么，请答题——漫步在清澈蓝天之下，如果有人在一旁，定会被吸引住目光，有着闭花羞月般美貌的魔女，究竟是谁呢？那就是身在旅途，编制着我和我们的故事《魔女之旅》的人——没错，就是我（そう、私です）。』</em></p>
+<p><em>注意：在观看之前请确保您已经观看完《魔女之旅》第一季全部或ED（点击页面上端播放键即可播放）</em></p>
+<p><em>该页面分为两个部分，第一部分：歌词解析，第二部分：画面解析</em></p>
+<p><em>该页面及著作权为White_mu所有，White_mu于2020/02/01制作，部分资料来源于网络（具体出处可参考页面下方），如有侵权，请与我们联系，邮箱：<a href="mailto:&#50;&#56;&#55;&#x33;&#x34;&#x36;&#x34;&#x30;&#x39;&#x30;&#x40;&#113;&#x71;&#46;&#99;&#x6f;&#x6d;">&#50;&#56;&#55;&#x33;&#x34;&#x36;&#x34;&#x30;&#x39;&#x30;&#x40;&#113;&#x71;&#46;&#99;&#x6f;&#x6d;</a></em></p>
+<p><em>如果该页面有错误之处，请与我们联系修改，感谢支持</em></p>
+<h3 id="第一部分：歌词解析"><a href="#第一部分：歌词解析" class="headerlink" title="第一部分：歌词解析"></a>第一部分：歌词解析</h3><h5 id="穿越被月光照耀的小径"><a href="#穿越被月光照耀的小径" class="headerlink" title="穿越被月光照耀的小径"></a>穿越被月光照耀的小径</h5><p>（第一层意思（字面意思）：小径：某一话中伊蕾娜所途径的小径 第二层意思（意义）：被月光照耀的小径：</p>
+<p>晚上时，伊蕾娜独自一人骑着扫帚穿越被月光照耀的小径，月光为她的前进提供了光明，通过小径的引导，她成功来到了目的地。月光：人生的路牌 小径：弯路，为什么伊蕾娜不走舒适的大路而走阴森的小陆，<del>她可以走大路</del>可以这样理解，一是前往目的地的道路上必须要经过这条小路，比喻实现梦想必定要承受一些磨炼，二是体现其独特性，她可以飞，可以按照地图沿直线飞行，没必要走小路，这是应该就是体现其独特性，在第一话中伊蕾娜通过考试，成为见习最年轻的见习魔女，但这个城市的魔女们不愿意收她为徒，体现其独特性，她比别人更富有天赋，也付出了更多的努力，比喻若想实现自己的梦想必须要付出巨大的努力，别人走大路时，她走小路，弯道超车，成为了最年轻的见习魔女）</p>
+<h5 id="温柔背后暗藏着毒药"><a href="#温柔背后暗藏着毒药" class="headerlink" title="温柔背后暗藏着毒药"></a>温柔背后暗藏着毒药</h5><p>(第三话中看似温柔美丽的花朵实则隐含的巨大的魔力，能使普通人变异，但对魔女通常是无效的，所以一开始伊蕾娜并不知道这么恐怖的存在)</p>
+<h5 id="切忌被其所迷惑"><a href="#切忌被其所迷惑" class="headerlink" title="切忌被其所迷惑"></a>切忌被其所迷惑</h5><p>(同上，启示我们不要被外表美丽的事物所迷惑)</p>
+<h5 id="那种守护想守护的事物的强大"><a href="#那种守护想守护的事物的强大" class="headerlink" title="那种守护想守护的事物的强大"></a>那种守护想守护的事物的强大</h5><h5 id="相信自己总有一天能够得到"><a href="#相信自己总有一天能够得到" class="headerlink" title="相信自己总有一天能够得到"></a>相信自己总有一天能够得到</h5><h5 id="朝着崭新的明天出发吧"><a href="#朝着崭新的明天出发吧" class="headerlink" title="朝着崭新的明天出发吧"></a>朝着崭新的明天出发吧</h5><h5 id="跨越喜悦与绝望-急切朝未来前进"><a href="#跨越喜悦与绝望-急切朝未来前进" class="headerlink" title="跨越喜悦与绝望 急切朝未来前进"></a>跨越喜悦与绝望 急切朝未来前进</h5><p>（喜悦与绝望处于对立面，通常情绪不可能转换地这么快，印证了多元论？）<br>我只是“想要知道”<br>一次次的邂逅 学习 抉择的路上</p>
+<p>（邂逅 ：与城市告别，学习：在旅途中学习，抉择：在十二话中有个镜头描写了伊蕾娜在十字路口处的抉择）</p>
+<h5 id="在谁都未曾见过的那一页-编写着"><a href="#在谁都未曾见过的那一页-编写着" class="headerlink" title="在谁都未曾见过的那一页 编写着"></a>在谁都未曾见过的那一页 编写着</h5><p>（的确，该小说完成前，除了伊蕾娜自己，没人见过（如果忽视第八话中玩偶剪掉伊蕾娜头发的话））</p>
+<h5 id="只属于自己的故事"><a href="#只属于自己的故事" class="headerlink" title="只属于自己的故事"></a>只属于自己的故事</h5><h5 id="躲避散发着芳香的花瓣"><a href="#躲避散发着芳香的花瓣" class="headerlink" title="躲避散发着芳香的花瓣"></a>躲避散发着芳香的花瓣</h5><p>（对花海产生阴影）</p>
+<h5 id="眼前出现的那些花言巧语"><a href="#眼前出现的那些花言巧语" class="headerlink" title="眼前出现的那些花言巧语"></a>眼前出现的那些花言巧语</h5><p>（花言巧语——外表温柔实际阴暗险恶的花朵）</p>
+<h5 id="如果想彻底看破真相-那就切勿被其所诱惑"><a href="#如果想彻底看破真相-那就切勿被其所诱惑" class="headerlink" title="如果想彻底看破真相 那就切勿被其所诱惑"></a>如果想彻底看破真相 那就切勿被其所诱惑</h5><h5 id="迎面的强风-身后的和风-皆是我前进路上的伙伴"><a href="#迎面的强风-身后的和风-皆是我前进路上的伙伴" class="headerlink" title="迎面的强风 身后的和风 皆是我前进路上的伙伴"></a>迎面的强风 身后的和风 皆是我前进路上的伙伴</h5><h5 id="开拓那无法预测的未来"><a href="#开拓那无法预测的未来" class="headerlink" title="开拓那无法预测的未来"></a>开拓那无法预测的未来</h5><h5 id="那种实现想实现的愿望的坚强"><a href="#那种实现想实现的愿望的坚强" class="headerlink" title="那种实现想实现的愿望的坚强"></a>那种实现想实现的愿望的坚强</h5><h5 id="相信自己总有一天能够得到-1"><a href="#相信自己总有一天能够得到-1" class="headerlink" title="相信自己总有一天能够得到"></a>相信自己总有一天能够得到</h5><h5 id="朝着崭新的明天出发吧-1"><a href="#朝着崭新的明天出发吧-1" class="headerlink" title="朝着崭新的明天出发吧"></a>朝着崭新的明天出发吧</h5><h5 id="跨越悲痛和幸福-为未来而祈祷"><a href="#跨越悲痛和幸福-为未来而祈祷" class="headerlink" title="跨越悲痛和幸福 为未来而祈祷"></a>跨越悲痛和幸福 为未来而祈祷</h5><h5 id="我仍然“想要知道”"><a href="#我仍然“想要知道”" class="headerlink" title="我仍然“想要知道”"></a>我仍然“想要知道”</h5><h5 id="邂逅-和离别-反反复复-刻在记忆中"><a href="#邂逅-和离别-反反复复-刻在记忆中" class="headerlink" title="邂逅 和离别 反反复复 刻在记忆中"></a>邂逅 和离别 反反复复 刻在记忆中</h5><p>（离别：这里应该指她的朋友，老师，家人等）</p>
+<h5 id="谁都未曾知晓的-只属于自己的故事"><a href="#谁都未曾知晓的-只属于自己的故事" class="headerlink" title="谁都未曾知晓的 只属于自己的故事"></a>谁都未曾知晓的 只属于自己的故事</h5><h5 id="将在这一页-写上句号"><a href="#将在这一页-写上句号" class="headerlink" title="将在这一页 写上句号"></a>将在这一页 写上句号</h5><p>（句号：标志着一个故事的结束 多元论：标志着一个世界线的伊蕾娜故事的结束，下一个肯定还一个活蹦乱跳的伊蕾娜）</p>
+<h3 id="第二部分-画面解析"><a href="#第二部分-画面解析" class="headerlink" title="第二部分:画面解析"></a>第二部分:画面解析</h3><p>（其实也没什么好解析了的，稍微过一下就算了趴）</p>
+<p>首先从全篇来看，ED与OP截然不同，OP走的是可爱路线，但ED主要描写了伊蕾娜的”美貌“，呈现出一种沉重的气氛</p>
+<p>你也看到了，ED一开始描写了一本书，但似乎该书的透明度不高，我们更多所看见的是宫殿的影子</p>
+<p>左边的一页几乎被宫殿占领了，右边也有一定程度的影子，从书的边缘可以看出，这本书是红色的，就说明这本书是《魔女之旅》，伊蕾娜所作。结合上述材料，我们可以认为左边的宫殿是一个国家，</p>
+<p>右边的文字就记述了这个国家的故事，结合歌词可以看出，右边的文字更多描写的是对人生的启示</p>
+<p>然后就是伊蕾娜侧面的画面，该画面中伊蕾娜闭着眼，表情沉重，似乎在思考着今天所经历的故事的启示，结合歌词的却如此</p>
+<p>再然后就是伊蕾娜下身的画面，该画面中伊蕾娜”上号了“，穿上了魔女衣，这魔女衣似乎也是透明的，</p>
+<p>可以看见出第一话中与芙兰老师相遇的地点，歌词多数有更力量，成长有关，应该隐喻了芙兰老师对她成长的影响</p>
+<p>随后画面一转，是魔女帽的镜头，魔女帽上的建筑未知，歌词也主要说明了未来伊蕾娜要怎么走好自己的道路</p>
+<p>再然后就是伊蕾娜骑在扫帚小姐上的镜头，该镜头上的建筑未知，歌词为道路为主</p>
+<p>再再然后就是扫帚小姐的专场了，该镜头的城市应该是第五话中的国家（看到这繁荣的景象可以猜出来），歌词也主要围绕着故事来展开。除了比较好坐之外，你还知道为什么扫帚小姐要”穿“着”衣服“吗？这是不是隐含了什么？没错，虽然在本季中扫帚小姐并没有拟人化，但动漫中已经有要拟人化的趋势了，暗示下一季扫帚小姐有可能会被拟人化（下一季应该会有物品之国的故事，而且应该在前面几话，对了，魔杖小姐什么时候安排一下？）</p>
+<p>最后就是名场面：”爱我请睁眼“，歌词也没有了，在左侧脸的城市未知，伊蕾娜也没有穿上魔女服，只有在睡觉的时候才不会穿上魔女服（第11话除外），从此可知整个ED应该就是伊蕾娜的梦境，歌词多以人生哲理为主，整体气氛略显沉重。</p>
+]]></content>
+      <categories>
+        <category>动漫解析</category>
+        <category>魔女之旅</category>
+      </categories>
+      <tags>
+        <tag>动漫解析</tag>
+        <tag>魔女之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《魔女之旅》解析之OP动漫解析</title>
+    <url>/2021/02/01/%E3%80%8A%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%E3%80%8B%E8%A7%A3%E6%9E%90%E4%B9%8BOP%E5%8A%A8%E6%BC%AB%E8%A7%A3%E6%9E%90/</url>
+    <content><![CDATA[<h1 id="《魔女之旅》解析之OP动漫解析"><a href="#《魔女之旅》解析之OP动漫解析" class="headerlink" title="《魔女之旅》解析之OP动漫解析"></a>《魔女之旅》解析之OP动漫解析</h1><p><em>和平国洛贝塔出现了一位少女，她14岁便通过了魔术考试，是史上最年轻的见习魔女。 ——没错，就是我（そう、私です）。</em></p>
+<p><em>注意：该解析由White_mu于2021/2/1制作，未经允许不能私自转载</em></p>
+<p><em>继续之前：请确保您已经看完《魔女之旅》第一季全部或《魔女之旅》OP动画</em></p>
+<h3 id="解析："><a href="#解析：" class="headerlink" title="解析："></a>解析：</h3><p>0:21（優しく吹いた風が:温柔拂过的风儿） 该场景为第三话中美丽的花田（美丽的背影下却时常隐藏着黑暗）结合歌词，可以理解为：花海衬托出伊蕾娜温柔美丽的形象</p>
+<p>0:24 （古いページ捲るように:翻动着古老的书页）画面中的书应该是伊蕾娜的未完成小说——《魔女之旅》，可以通过解析翻译出该画面的大致内容：</p>
+<p><img src="https://www.hualigs.cn/image/60178577eb63d.jpg" alt="handword"></p>
+<p>该作者为：余子空（Bilibili）<img src="https://www.hualigs.cn/image/601785e10d08d.jpg" alt="word1"></p>
+<p>该画面经过处理可更好地解析文字</p>
+<p>解析后的结果：</p>
+<p><img src="https://www.hualigs.cn/image/6018c6a933ab7.jpg"></p>
+<p>来源于：<a href="https://www.bilibili.com/read/cv9455915">https://www.bilibili.com/read/cv9455915</a> 原作者：来自p站的EvanAkka，pid85976528</p>
+<p>解析后：</p>
+<p>Literature.</p>
+<p>Like the colored fantasy carved into shape.</p>
+<p>We can paint, we … it real.</p>
+<p>Turning the…</p>
+<p>翻译后：</p>
+<p>文学，</p>
+<p>就像雕刻成形状的彩色幻想，</p>
+<p>我们可以绘画，我们…真实。</p>
+<p>转动…</p>
+<p>0:29（振り返るけど：是不是该回首看看呢）名场面：伊蕾娜下楼（在剧情中未出现）<em>（awsl）</em></p>
+<p>1:11 （あなたはそう微笑んだ：你这样温柔地露出微笑）名场面：伊蕾娜打指挥（真实的44拍打法）*<del>（血包已经没有了）</del>*</p>
+<p>1:17 （「また会いましょう」小指のまじない:“有缘再见吧” 将小指勾起）勾指起誓，可以看得出来一个是伊蕾娜，一个是沙耶，在第六话中有详细描写</p>
+<p>1:19 （誰かの声がして目が覚めた：谁的声音在呼唤 我睁开了眼）名场面：“爱我请睁眼”（弹幕）——我保证我没有发过这样的弹幕，那么你认为这个声音是谁发出的呢？ <em><del>——没错，就是我（そう、私です）</del></em></p>
+<p>1:22 名场面：”Windows使用手册，Java入门到入土，C++入门到入坟（网友们的想象）”实际应该是《妮可的冒险谭》</p>
+<p>（理由：在第一话中出现，类似于微软Logo的一面为反面，为什么是反面而不是正面？寓意深刻）</p>
+<p>部分资料来源：萌娘百科，百度百科，Bilibili（余子空等）</p>
+]]></content>
+      <categories>
+        <category>动漫解析</category>
+        <category>魔女之旅</category>
+      </categories>
+      <tags>
+        <tag>动漫解析</tag>
+        <tag>魔女之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《魔女之旅》解析之OP解析</title>
+    <url>/2021/02/01/%E3%80%8A%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%E3%80%8B%E8%A7%A3%E6%9E%90%E4%B9%8BOP%E8%A7%A3%E6%9E%90/</url>
+    <content><![CDATA[<h1 id="《魔女之旅》解析之OP解析"><a href="#《魔女之旅》解析之OP解析" class="headerlink" title="《魔女之旅》解析之OP解析"></a>《魔女之旅》解析之OP解析</h1><p><em>“钱已渐瘪,然旅途不见尽终点，</em><br><em>当传承的荷包熄灭之时,新的篇章将响彻四周,</em><br><em>进而唤醒现地中全新的老婆们,</em><br><em>不过,老婆们一定会被舍弃身后吧,</em><br><em>而单身的魔女将再次上路.</em><br><em>那是天才，成不了家,且卡哇伊的旅人.</em><br><em>但正因如此,魔女才如此渴求旅行吧.”——就叫Bilibilibili</em></p>
+<h5 id="《魔女之旅》：Bilibili评分：9-6（2021-1-31）White-mu评分10-0（我永远喜欢伊蕾娜）"><a href="#《魔女之旅》：Bilibili评分：9-6（2021-1-31）White-mu评分10-0（我永远喜欢伊蕾娜）" class="headerlink" title="《魔女之旅》：Bilibili评分：9.6（2021/1/31）White_mu评分10.0（我永远喜欢伊蕾娜）"></a>《魔女之旅》：Bilibili评分：9.6（2021/1/31）White_mu评分10.0（我永远喜欢伊蕾娜）</h5><p><em>注意:请在继续浏览此文章前确保您已经看完《魔女之旅》第一季全十二话，如果你不能，</em></p>
+<p><em>请看完OP即可（点击页面最上方的播放按钮即可播放OP），我保证你会爱上这部番的。</em></p>
+<p><strong><em>版权声明：本文章为White_mu于2021/1/31写作，未经允许不能私自转载</em></strong></p>
+<p>歌词解析：（视角：伊蕾娜）</p>
+<p><strong>只要去装饰的话</strong><br>（对象应该是成为魔女，然后环游世界的梦想）<br><strong>幻想也能成为有形之物</strong><br>（有形之物：指魔法）<br><strong>尽心描绘的话 就能实现</strong></p>
+<p><strong>温柔拂过的风儿 翻动着古老的书页</strong></p>
+<p>（风儿：象征着伊蕾娜，除此之外还有谁更温柔呢？*(笑）*）</p>
+<p>（古老：从动画中对城市的描绘和科技发展的水平可以看出，当时工业化水平不高，</p>
+<p>从第四化对国王的描述，可以猜测当时为封建社会）</p>
+<p>（书页：1.在成为魔女之前，伊蕾娜需要通过饱读经书来进阶自己对魔法的操控</p>
+<p>可以理解为温柔的伊蕾娜为实现成为魔女的梦想，饱读经书，最终成为最年轻的见习魔女</p>
+<p>2.可以理解为小说《魔女之旅》，伊蕾娜的妈妈在伊蕾娜临走前给了伊蕾娜一本日记本，</p>
+<p>要她把旅途中所见所闻写下来，可以理解为温柔的伊蕾娜在写小说）</p>
+<p>（扩展：1.《魔女之旅》为小说改作品 2.剧透警告：伊蕾娜的妈妈真实身份为伊蕾娜</p>
+<p>最喜爱的小说《妮可冒险记》的作者，伊蕾娜的师父（女）的师父——<u>一名魔女</u>）</p>
+<p><strong>是不是该回首看看呢</strong><br>（暗示伊蕾娜已经知道的母亲的正式身份——<u>一名魔女</u>）<br><strong>“还是不必了吧”</strong><br>（在十一话中，伊蕾娜的师父明示师父是伊蕾娜老妈，伊蕾娜甚至已经知道这一事实，</p>
+<p>但是伊蕾娜并没有承认，她是受《妮可的冒险谭》的影响而旅行的魔女，如果发觉妮可的身份，</p>
+<p>她觉得可能会失去旅行的理由——<em>因为不想自己的故事像妮可的冒险谭一样在第五集就结束</em></p>
+<p>部分资料来源：<strong>S级猎人麦露</strong>）<br><strong>将满满不曾知晓与经历的相遇与分别的故事</strong><br><strong>用渗出的墨水轻轻描摹</strong><br>（《魔女之旅》（by 伊蕾娜）的创作历程）<br><strong>去哪里好呢？</strong><br><strong>向远方前行</strong><br>（说明伊蕾娜的环游世界的理想）<br><strong>抛在脑后的东西 全部化成了梦境</strong><br><strong>因为喜欢 才会这么选择</strong></p>
+<p>（读过《尼可的冒险谭》有感而发，所产生的梦想）</p>
+<p><strong>践行自己的选择 做独特的自我</strong><br><strong>“有缘再见吧 约定好了哟”</strong><br>（意义深刻（可能为过度解读）1.可认为是与沙耶或芙兰老师的再次相见（最好如此）</p>
+<p>2.（可能为过度解读）：在第三话中伊蕾娜来到一户人家·，遇见了正在收集幸福并装入瓶中的少年.艾米尔。艾米尔喜欢在自己家中工作的佣人，因为她总是露出阴沉的表情，艾米尔为了让她获得幸福，所以打算将那个装满幸福瓶子当成礼物送给她——<em>这里涉及一个故事：一个国王为让他的闷闷不乐妻子感到快乐，把世界各地的美景收进一个瓶子中，打算让他的妻子感受到生活的美好…——</em>艾米尔把那个装满的瓶子打开，那个佣人感到非常惊讶…伊蕾娜临走前，艾米尔让她有空过来玩，但是伊蕾娜并没有这么做…*——<strong>那个国王打开了那个瓶子，他的妻子看到后感到非常绝望，最终自杀死去..</strong>.——细节：伊蕾娜走时回头看到女孩更加绝望如死灰的眼神，这似乎也预示着她的最终结局是什么…）<br><strong>你这样温柔地露出微笑</strong><br>（名场面：在OP中伊蕾娜挥动魔法棒，指挥OP演奏，通过OP可看出，该旋律为44拍）<br><strong>“有缘再见吧” 将小指勾起</strong><br>（指第六话中，伊蕾娜和沙耶的勾指起誓画面，那么上面的那个就…）<br><strong>谁的声音在呼唤 我睁开了眼</strong><br>（名场面：“爱我请睁眼”（弹幕）——我保证我没有发过这样的弹幕）<br><strong>被他人满怀期待 亦或是不受理睬</strong><br>（不受理睬：指第一话中城市的魔女们对伊蕾娜的不认可）<br><strong>成为哪一种人好呢？</strong><br>（第十二话中伊蕾娜遇见了各种性格的自己——世界多元论：下面细讲）<br><strong>“……其实 怎样都好”</strong><br>（说明了伊蕾娜对自己性格的普遍认可以及其乐观的心态）</p>
+<p>（世界多元论：《魔女之旅》本身就是汇总每个不同经历的伊蕾娜日记的故事合集(不论哪种观点都是大前提)以动画来说打从一开始她就不是一个人的视角(多元论)，从第一集开始往后仔细看的话会发现一些细节上的伏笔 by <strong>S级猎人麦露</strong> 该设定好处：不论本集本章故事有多么严肃多么虐心，下章总能直接自然得还观众一个活蹦乱跳的伊蕾娜 by<strong>S级猎人麦露</strong>,在十二话中，每个角色的性格都不是无缘无故产生的（以后细说），而伊蕾娜作为”主角的我”，自然拥有绝大多数性格，当然有些极度不好的性格在冒险中已经躲开了）</p>
+<p><strong>开心的同时也会不安 我也要拼命努力成长</strong><br>（不安：伊蕾娜的能力并不是非常强的，在第四话中便见识了远超于伊蕾娜自己能力的魔女）<br><strong>我能成为主人公吗</strong><br>（指《魔女之旅》主人公——当然）<br><strong>雨一滴一滴从天而降</strong><br>（第九话中，伊蕾娜因无法改变历史而自责的情景）<br><strong>仿佛身处没有人的世界中</strong><br><strong>装作没有看见满月的样子</strong><br><strong>等待着明天</strong><br><strong>“只要去相信 就能实现哟”</strong><br><strong>总有那么一个人这样肯定地推着我前进</strong><br>（这个人应该指的就是母亲或者是芙兰）<br><strong>“只要去相信 就能得救哟”</strong><br>（这句话应该是母亲大人之口里说出来的）<br><strong>总有那么一个人这样虔诚如祈祷地希望</strong><br><strong>终于 在湛蓝的天空上看到了</strong><br><strong>星星 笑颜绽放</strong><br><strong>宛如曾在书中看到的夜晚</strong><br>（书：《妮可冒险记》）<br><strong>雨过的清新传达给了脸颊</strong><br><strong>清晨已至 请一定不要忘记</strong><br><strong>旅途之中亲身撰写的典籍</strong><br>（明示）<br><strong>去哪里好呢？</strong><br><strong>向远方前行</strong><br><strong>抛在脑后的东西 全都化成了梦境</strong><br><strong>因为喜欢 才会这么选择</strong><br><strong>践行自己的选择 做独特的自我</strong><br><strong>“有缘再见吧 约定好了哟”</strong><br><strong>你这样温柔地露出微笑</strong><br><strong>“有缘再见吧” 将小指勾起</strong><br><strong>去信赖谁也是可以的吧</strong></p>
+<p>本文章部分灵感来源：<strong>S级猎人麦露</strong>，百度百科，萌娘百科</p>
+<p>如有错误之处，请和我们联系修改：<a href="mailto:&#50;&#x38;&#x37;&#x33;&#52;&#x36;&#52;&#x30;&#57;&#x30;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#x6d;">&#50;&#x38;&#x37;&#x33;&#52;&#x36;&#52;&#x30;&#57;&#x30;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#x6d;</a></p>
+]]></content>
+      <categories>
+        <category>动漫解析</category>
+        <category>魔女之旅</category>
+      </categories>
+      <tags>
+        <tag>动漫解析</tag>
+        <tag>魔女之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用手册</title>
+    <url>/2021/02/02/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</url>
+    <content><![CDATA[<h1 id="使用手册"><a href="#使用手册" class="headerlink" title="使用手册"></a>使用手册</h1><h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h2><p>本blog基于hexo框架，diaspora主题制作，该blog部分音源来源于网易云音乐，该blog部分图片来源于萌娘百科</p>
+<h2 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h2><h3 id="进入："><a href="#进入：" class="headerlink" title="进入："></a>进入：</h3><p>在浏览器输入<a href="https://whitemu-bilibili.github.io/">https://whitemu-bilibili.github.io/</a> 即可导航到此网站，无法访问？请检查：</p>
+<p>1.确保您的网络连接正常，在浏览器输入<a href="http://www.github.com,/">www.github.com，</a> 查看是否可以连接到github服务器</p>
+<p>2.确保您的浏览器为最新版本，推荐使用谷歌内核的浏览器，如Edge等</p>
+<p>3.为获取更好的浏览体验，推荐使用电脑访问此blog</p>
+<p>4.以上方法都没有效果？请尝试使用科学上网访问此blog</p>
+<p>5.以上方法都没有效果？联系我们：<a href="mailto:&#x32;&#x38;&#x37;&#x33;&#x34;&#54;&#x34;&#48;&#x39;&#48;&#x40;&#113;&#x71;&#46;&#x63;&#111;&#x6d;">&#x32;&#x38;&#x37;&#x33;&#x34;&#54;&#x34;&#48;&#x39;&#48;&#x40;&#113;&#x71;&#46;&#x63;&#111;&#x6d;</a></p>
+<h3 id="主页："><a href="#主页：" class="headerlink" title="主页："></a>主页：</h3><p>点击文章标题即可进入该文章，点击左上角的Logo可快速回到主页</p>
+<p>点击右上角的放大镜按钮即可进入搜索页面</p>
+<p>点击右上角的菜单按钮即可进入菜单</p>
+<h3 id="文章"><a href="#文章" class="headerlink" title="文章:"></a>文章:</h3><p>点击文章标题即可进入该文章的页面，注意：有时候因网络问题会存在无法连接的现象，刷新一下即可</p>
+<p>左上角的主页按钮尚不可用</p>
+<p>左上角的播放按钮可播放bgm，目前可播放：内向的都是作曲家，勾指起誓。在动漫解析文章页面中，则通常都会播放与之相关的bgm，音源来源于：网易云音乐（除以上两首）</p>
+<p>在右上角的扫描按钮可生成该页面的二维码，扫描此二维码即可进入该页面</p>
+<p>在日期下面的则是标签，如本页面的标签为”hexo“，点击后可查看更多该标签下的内容</p>
+<p>评论功能暂时关闭</p>
+<h3 id="搜索："><a href="#搜索：" class="headerlink" title="搜索："></a>搜索：</h3><p>点击主页右上角的放大镜按钮即可进入搜索页面，在搜索页面输入关键词，如”魔女之旅“就可找到相关内容，或者直接搜索文章内的内容，如”我永远喜欢伊蕾娜“，也可找到相关页面</p>
+<h3 id="菜单："><a href="#菜单：" class="headerlink" title="菜单："></a>菜单：</h3><p>点击主页右上角的菜单按钮即可进入菜单</p>
+<p>点击菜单上的按钮即可进入该分类页面，其中：</p>
+<p>分类和标签：其内容都差不多</p>
+<p>归档：可通过世界线查看文章发布的时间（1978除外）</p>
+<p>关于：不可用</p>
+<p>中间的”鸡汤“为一言提供的服务，每次进入都会发送变化</p>
+<p>点击右上角的叉叉按钮即可退出彩蛋</p>
+<p>下面的各按钮（Facebook, github等）不可用</p>
+<h2 id="关于我们："><a href="#关于我们：" class="headerlink" title="关于我们："></a>关于我们：</h2><p>Bilibili: space.bilibili.com/97020216</p>
+<p>更多视频网站链接: whitemu-bilibili.github.io/2020/10/06/Welcome/</p>
+<p>邮箱：<a href="mailto:&#50;&#56;&#55;&#51;&#x34;&#54;&#52;&#48;&#57;&#48;&#64;&#x71;&#113;&#x2e;&#99;&#111;&#x6d;">&#50;&#56;&#55;&#51;&#x34;&#54;&#52;&#48;&#57;&#48;&#64;&#x71;&#113;&#x2e;&#99;&#111;&#x6d;</a>（优先查看） </p>
+<p>如想获取帮助，请给我们发邮件</p>
+<p>感谢您的访问！</p>
+<p>White_mu</p>
+<p>2021/2/2<br>ver: 1.0</p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>充电说明</title>
@@ -71,6 +236,30 @@
       </categories>
       <tags>
         <tag>bilibili</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文章模板</title>
+    <url>/1978/01/01/%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/</url>
+    <content><![CDATA[<pre><code class="bash">$ --- # 基本格式
+$ title: My awesome title # 标题
+$ date: 2016-10-12 18:38:45 # 日期
+$ categories: # 分类
+       - 分类1
+       - 分类2
+$ tags:  # 标签
+       - 标签1
+       - 标签2
+$ mp3: http://domain.com/awesome.mp3 # 背景音乐（已禁用）
+$ cover: http://domain.com/awesome.jpg # 配图
+$ --- # 基本格式
+</code></pre>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -111,7 +300,7 @@
 <li>我的世界低配光影推荐及光影安装方法              </li>
 <li>我的世界皮肤制作网站及如何安装皮肤     </li>
 <li>我的世界怎么免费开服        </li>
-<li>{重发}网易云音乐破解教程高清版     </li>
+<li> {重发}网易云音乐破解教程高清版     </li>
 <li>奥利给正反合一+多重奥利给       </li>
 <li>IDM下载程序推荐，资源嗅探功能超乎你的想象     </li>
 <li>IDM免注册教程     </li>
@@ -342,194 +531,6 @@
       </categories>
       <tags>
         <tag>bilibili</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>文章模板</title>
-    <url>/1978/01/01/%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/</url>
-    <content><![CDATA[<pre><code class="bash">$ --- # 基本格式
-$ title: My awesome title # 标题
-$ date: 2016-10-12 18:38:45 # 日期
-$ categories: # 分类
-       - 分类1
-       - 分类2
-$ tags:  # 标签
-       - 标签1
-       - 标签2
-$ mp3: http://domain.com/awesome.mp3 # 背景音乐（已禁用）
-$ cover: http://domain.com/awesome.jpg # 配图
-$ --- # 基本格式</code></pre>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《魔女之旅》解析之OP解析</title>
-    <url>/2021/02/01/%E3%80%8A%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%E3%80%8B%E8%A7%A3%E6%9E%90%E4%B9%8BOP%E8%A7%A3%E6%9E%90/</url>
-    <content><![CDATA[<h1 id="《魔女之旅》解析之OP解析"><a href="#《魔女之旅》解析之OP解析" class="headerlink" title="《魔女之旅》解析之OP解析"></a>《魔女之旅》解析之OP解析</h1><p><em>“钱已渐瘪,然旅途不见尽终点，</em><br><em>当传承的荷包熄灭之时,新的篇章将响彻四周,</em><br><em>进而唤醒现地中全新的老婆们,</em><br><em>不过,老婆们一定会被舍弃身后吧,</em><br><em>而单身的魔女将再次上路.</em><br><em>那是天才，成不了家,且卡哇伊的旅人.</em><br><em>但正因如此,魔女才如此渴求旅行吧.”——就叫Bilibilibili</em></p>
-<h5 id="《魔女之旅》：Bilibili评分：9-6（2021-1-31）White-mu评分10-0（我永远喜欢伊蕾娜）"><a href="#《魔女之旅》：Bilibili评分：9-6（2021-1-31）White-mu评分10-0（我永远喜欢伊蕾娜）" class="headerlink" title="《魔女之旅》：Bilibili评分：9.6（2021/1/31）White_mu评分10.0（我永远喜欢伊蕾娜）"></a>《魔女之旅》：Bilibili评分：9.6（2021/1/31）White_mu评分10.0（我永远喜欢伊蕾娜）</h5><p><em>注意:请在继续浏览此文章前确保您已经看完《魔女之旅》第一季全十二话，如果你不能，</em></p>
-<p><em>请看完OP即可（点击页面最上方的播放按钮即可播放OP），我保证你会爱上这部番的。</em></p>
-<p><strong><em>版权声明：本文章为White_mu于2021/1/31写作，未经允许不能私自转载</em></strong></p>
-<p>歌词解析：（视角：伊蕾娜）</p>
-<p><strong>只要去装饰的话</strong><br>（对象应该是成为魔女，然后环游世界的梦想）<br><strong>幻想也能成为有形之物</strong><br>（有形之物：指魔法）<br><strong>尽心描绘的话 就能实现</strong></p>
-<p><strong>温柔拂过的风儿 翻动着古老的书页</strong></p>
-<p>（风儿：象征着伊蕾娜，除此之外还有谁更温柔呢？*(笑）*）</p>
-<p>（古老：从动画中对城市的描绘和科技发展的水平可以看出，当时工业化水平不高，</p>
-<p>从第四化对国王的描述，可以猜测当时为封建社会）</p>
-<p>（书页：1.在成为魔女之前，伊蕾娜需要通过饱读经书来进阶自己对魔法的操控</p>
-<p>可以理解为温柔的伊蕾娜为实现成为魔女的梦想，饱读经书，最终成为最年轻的见习魔女</p>
-<p>2.可以理解为小说《魔女之旅》，伊蕾娜的妈妈在伊蕾娜临走前给了伊蕾娜一本日记本，</p>
-<p>要她把旅途中所见所闻写下来，可以理解为温柔的伊蕾娜在写小说）</p>
-<p>（扩展：1.《魔女之旅》为小说改作品 2.剧透警告：伊蕾娜的妈妈真实身份为伊蕾娜</p>
-<p>最喜爱的小说《妮可冒险记》的作者，伊蕾娜的师父（女）的师父——<u>一名魔女</u>）</p>
-<p><strong>是不是该回首看看呢</strong><br>（暗示伊蕾娜已经知道的母亲的正式身份——<u>一名魔女</u>）<br><strong>“还是不必了吧”</strong><br>（在十一话中，伊蕾娜的师父明示师父是伊蕾娜老妈，伊蕾娜甚至已经知道这一事实，</p>
-<p>但是伊蕾娜并没有承认，她是受《妮可的冒险谭》的影响而旅行的魔女，如果发觉妮可的身份，</p>
-<p>她觉得可能会失去旅行的理由——<em>因为不想自己的故事像妮可的冒险谭一样在第五集就结束</em></p>
-<p>部分资料来源：<strong>S级猎人麦露</strong>）<br><strong>将满满不曾知晓与经历的相遇与分别的故事</strong><br><strong>用渗出的墨水轻轻描摹</strong><br>（《魔女之旅》（by 伊蕾娜）的创作历程）<br><strong>去哪里好呢？</strong><br><strong>向远方前行</strong><br>（说明伊蕾娜的环游世界的理想）<br><strong>抛在脑后的东西 全部化成了梦境</strong><br><strong>因为喜欢 才会这么选择</strong></p>
-<p>（读过《尼可的冒险谭》有感而发，所产生的梦想）</p>
-<p><strong>践行自己的选择 做独特的自我</strong><br><strong>“有缘再见吧 约定好了哟”</strong><br>（意义深刻（可能为过度解读）1.可认为是与沙耶或芙兰老师的再次相见（最好如此）</p>
-<p>2.（可能为过度解读）：在第三话中伊蕾娜来到一户人家·，遇见了正在收集幸福并装入瓶中的少年.艾米尔。艾米尔喜欢在自己家中工作的佣人，因为她总是露出阴沉的表情，艾米尔为了让她获得幸福，所以打算将那个装满幸福瓶子当成礼物送给她——<em>这里涉及一个故事：一个国王为让他的闷闷不乐妻子感到快乐，把世界各地的美景收进一个瓶子中，打算让他的妻子感受到生活的美好…——</em>艾米尔把那个装满的瓶子打开，那个佣人感到非常惊讶…伊蕾娜临走前，艾米尔让她有空过来玩，但是伊蕾娜并没有这么做…*——<strong>那个国王打开了那个瓶子，他的妻子看到后感到非常绝望，最终自杀死去..</strong>.——细节：伊蕾娜走时回头看到女孩更加绝望如死灰的眼神，这似乎也预示着她的最终结局是什么…）<br><strong>你这样温柔地露出微笑</strong><br>（名场面：在OP中伊蕾娜挥动魔法棒，指挥OP演奏，通过OP可看出，该旋律为44拍）<br><strong>“有缘再见吧” 将小指勾起</strong><br>（指第六话中，伊蕾娜和沙耶的勾指起誓画面，那么上面的那个就…）<br><strong>谁的声音在呼唤 我睁开了眼</strong><br>（名场面：“爱我请睁眼”（弹幕）——我保证我没有发过这样的弹幕）<br><strong>被他人满怀期待 亦或是不受理睬</strong><br>（不受理睬：指第一话中城市的魔女们对伊蕾娜的不认可）<br><strong>成为哪一种人好呢？</strong><br>（第十二话中伊蕾娜遇见了各种性格的自己——世界多元论：下面细讲）<br><strong>“……其实 怎样都好”</strong><br>（说明了伊蕾娜对自己性格的普遍认可以及其乐观的心态）</p>
-<p>（世界多元论：《魔女之旅》本身就是汇总每个不同经历的伊蕾娜日记的故事合集(不论哪种观点都是大前提)以动画来说打从一开始她就不是一个人的视角(多元论)，从第一集开始往后仔细看的话会发现一些细节上的伏笔 by <strong>S级猎人麦露</strong> 该设定好处：不论本集本章故事有多么严肃多么虐心，下章总能直接自然得还观众一个活蹦乱跳的伊蕾娜 by<strong>S级猎人麦露</strong>,在十二话中，每个角色的性格都不是无缘无故产生的（以后细说），而伊蕾娜作为”主角的我”，自然拥有绝大多数性格，当然有些极度不好的性格在冒险中已经躲开了）</p>
-<p><strong>开心的同时也会不安 我也要拼命努力成长</strong><br>（不安：伊蕾娜的能力并不是非常强的，在第四话中便见识了远超于伊蕾娜自己能力的魔女）<br><strong>我能成为主人公吗</strong><br>（指《魔女之旅》主人公——当然）<br><strong>雨一滴一滴从天而降</strong><br>（第九话中，伊蕾娜因无法改变历史而自责的情景）<br><strong>仿佛身处没有人的世界中</strong><br><strong>装作没有看见满月的样子</strong><br><strong>等待着明天</strong><br><strong>“只要去相信 就能实现哟”</strong><br><strong>总有那么一个人这样肯定地推着我前进</strong><br>（这个人应该指的就是母亲或者是芙兰）<br><strong>“只要去相信 就能得救哟”</strong><br>（这句话应该是母亲大人之口里说出来的）<br><strong>总有那么一个人这样虔诚如祈祷地希望</strong><br><strong>终于 在湛蓝的天空上看到了</strong><br><strong>星星 笑颜绽放</strong><br><strong>宛如曾在书中看到的夜晚</strong><br>（书：《妮可冒险记》）<br><strong>雨过的清新传达给了脸颊</strong><br><strong>清晨已至 请一定不要忘记</strong><br><strong>旅途之中亲身撰写的典籍</strong><br>（明示）<br><strong>去哪里好呢？</strong><br><strong>向远方前行</strong><br><strong>抛在脑后的东西 全都化成了梦境</strong><br><strong>因为喜欢 才会这么选择</strong><br><strong>践行自己的选择 做独特的自我</strong><br><strong>“有缘再见吧 约定好了哟”</strong><br><strong>你这样温柔地露出微笑</strong><br><strong>“有缘再见吧” 将小指勾起</strong><br><strong>去信赖谁也是可以的吧</strong></p>
-<p>本文章部分灵感来源：<strong>S级猎人麦露</strong>，百度百科，萌娘百科</p>
-<p>如有错误之处，请和我们联系修改：<a href="mailto:&#50;&#56;&#x37;&#51;&#x34;&#x36;&#52;&#x30;&#57;&#x30;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;">&#50;&#56;&#x37;&#51;&#x34;&#x36;&#52;&#x30;&#57;&#x30;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;</a></p>
-]]></content>
-      <categories>
-        <category>动漫解析</category>
-        <category>魔女之旅</category>
-      </categories>
-      <tags>
-        <tag>动漫解析</tag>
-        <tag>魔女之旅</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《魔女之旅》解析之OP动漫解析</title>
-    <url>/2021/02/01/%E3%80%8A%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%E3%80%8B%E8%A7%A3%E6%9E%90%E4%B9%8BOP%E5%8A%A8%E6%BC%AB%E8%A7%A3%E6%9E%90/</url>
-    <content><![CDATA[<h1 id="《魔女之旅》解析之OP动漫解析"><a href="#《魔女之旅》解析之OP动漫解析" class="headerlink" title="《魔女之旅》解析之OP动漫解析"></a>《魔女之旅》解析之OP动漫解析</h1><p><em>和平国洛贝塔出现了一位少女，她14岁便通过了魔术考试，是史上最年轻的见习魔女。 ——没错，就是我（そう、私です）。</em></p>
-<p><em>注意：该解析由White_mu于2021/2/1制作，未经允许不能私自转载</em></p>
-<p><em>继续之前：请确保您已经看完《魔女之旅》第一季全部或《魔女之旅》OP动画</em></p>
-<h3 id="解析："><a href="#解析：" class="headerlink" title="解析："></a>解析：</h3><p>0:21（優しく吹いた風が:温柔拂过的风儿） 该场景为第三话中美丽的花田（美丽的背影下却时常隐藏着黑暗）结合歌词，可以理解为：花海衬托出伊蕾娜温柔美丽的形象</p>
-<p>0:24 （古いページ捲るように:翻动着古老的书页）画面中的书应该是伊蕾娜的未完成小说——《魔女之旅》，可以通过解析翻译出该画面的大致内容：</p>
-<p><img src="https://www.hualigs.cn/image/60178577eb63d.jpg" alt="handword"></p>
-<p>该作者为：余子空（Bilibili）<img src="https://www.hualigs.cn/image/601785e10d08d.jpg" alt="word1"></p>
-<p>该画面经过处理可更好地解析文字</p>
-<p>解析后的结果：</p>
-<p><img src="https://www.hualigs.cn/image/6018c6a933ab7.jpg"></p>
-<p>来源于：<a href="https://www.bilibili.com/read/cv9455915">https://www.bilibili.com/read/cv9455915</a> 原作者：来自p站的EvanAkka，pid85976528</p>
-<p>解析后：</p>
-<p>Literature.</p>
-<p>Like the colored fantasy carved into shape.</p>
-<p>We can paint, we … it real.</p>
-<p>Turning the…</p>
-<p>翻译后：</p>
-<p>文学，</p>
-<p>就像雕刻成形状的彩色幻想，</p>
-<p>我们可以绘画，我们…真实。</p>
-<p>转动…</p>
-<p>0:29（振り返るけど：是不是该回首看看呢）名场面：伊蕾娜下楼（在剧情中未出现）<em>（awsl）</em></p>
-<p>1:11 （あなたはそう微笑んだ：你这样温柔地露出微笑）名场面：伊蕾娜打指挥（真实的44拍打法）*<del>（血包已经没有了）</del>*</p>
-<p>1:17 （「また会いましょう」小指のまじない:“有缘再见吧” 将小指勾起）勾指起誓，可以看得出来一个是伊蕾娜，一个是沙耶，在第六话中有详细描写</p>
-<p>1:19 （誰かの声がして目が覚めた：谁的声音在呼唤 我睁开了眼）名场面：“爱我请睁眼”（弹幕）——我保证我没有发过这样的弹幕，那么你认为这个声音是谁发出的呢？ <em><del>——没错，就是我（そう、私です）</del></em></p>
-<p>1:22 名场面：”Windows使用手册，Java入门到入土，C++入门到入坟（网友们的想象）”实际应该是《妮可的冒险谭》</p>
-<p>（理由：在第一话中出现，类似于微软Logo的一面为反面，为什么是反面而不是正面？寓意深刻）</p>
-<p>部分资料来源：萌娘百科，百度百科，Bilibili（余子空等）</p>
-]]></content>
-      <categories>
-        <category>动漫解析</category>
-        <category>魔女之旅</category>
-      </categories>
-      <tags>
-        <tag>动漫解析</tag>
-        <tag>魔女之旅</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《魔女之旅》ED全解析</title>
-    <url>/2021/02/02/%E3%80%8A%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%E3%80%8BED%E5%85%A8%E8%A7%A3%E6%9E%90/</url>
-    <content><![CDATA[<h1 id="《魔女之旅》ED全解析"><a href="#《魔女之旅》ED全解析" class="headerlink" title="《魔女之旅》ED全解析"></a>《魔女之旅》ED全解析</h1><p><em>『那么，请答题——漫步在清澈蓝天之下，如果有人在一旁，定会被吸引住目光，有着闭花羞月般美貌的魔女，究竟是谁呢？那就是身在旅途，编制着我和我们的故事《魔女之旅》的人——没错，就是我（そう、私です）。』</em></p>
-<p><em>注意：在观看之前请确保您已经观看完《魔女之旅》第一季全部或ED（点击页面上端播放键即可播放）</em></p>
-<p><em>该页面分为两个部分，第一部分：歌词解析，第二部分：画面解析</em></p>
-<p><em>该页面及著作权为White_mu所有，White_mu于2020/02/01制作，部分资料来源于网络（具体出处可参考页面下方），如有侵权，请与我们联系，邮箱：<a href="mailto:&#x32;&#x38;&#x37;&#x33;&#x34;&#54;&#x34;&#48;&#x39;&#48;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;">&#x32;&#x38;&#x37;&#x33;&#x34;&#54;&#x34;&#48;&#x39;&#48;&#64;&#x71;&#113;&#x2e;&#x63;&#x6f;&#x6d;</a></em></p>
-<p><em>如果该页面有错误之处，请与我们联系修改，感谢支持</em></p>
-<h3 id="第一部分：歌词解析"><a href="#第一部分：歌词解析" class="headerlink" title="第一部分：歌词解析"></a>第一部分：歌词解析</h3><h5 id="穿越被月光照耀的小径"><a href="#穿越被月光照耀的小径" class="headerlink" title="穿越被月光照耀的小径"></a>穿越被月光照耀的小径</h5><p>（第一层意思（字面意思）：小径：某一话中伊蕾娜所途径的小径 第二层意思（意义）：被月光照耀的小径：</p>
-<p>晚上时，伊蕾娜独自一人骑着扫帚穿越被月光照耀的小径，月光为她的前进提供了光明，通过小径的引导，她成功来到了目的地。月光：人生的路牌 小径：弯路，为什么伊蕾娜不走舒适的大路而走阴森的小陆，<del>她可以走大路</del>可以这样理解，一是前往目的地的道路上必须要经过这条小路，比喻实现梦想必定要承受一些磨炼，二是体现其独特性，她可以飞，可以按照地图沿直线飞行，没必要走小路，这是应该就是体现其独特性，在第一话中伊蕾娜通过考试，成为见习最年轻的见习魔女，但这个城市的魔女们不愿意收她为徒，体现其独特性，她比别人更富有天赋，也付出了更多的努力，比喻若想实现自己的梦想必须要付出巨大的努力，别人走大路时，她走小路，弯道超车，成为了最年轻的见习魔女）</p>
-<h5 id="温柔背后暗藏着毒药"><a href="#温柔背后暗藏着毒药" class="headerlink" title="温柔背后暗藏着毒药"></a>温柔背后暗藏着毒药</h5><p>(第三话中看似温柔美丽的花朵实则隐含的巨大的魔力，能使普通人变异，但对魔女通常是无效的，所以一开始伊蕾娜并不知道这么恐怖的存在)</p>
-<h5 id="切忌被其所迷惑"><a href="#切忌被其所迷惑" class="headerlink" title="切忌被其所迷惑"></a>切忌被其所迷惑</h5><p>(同上，启示我们不要被外表美丽的事物所迷惑)</p>
-<h5 id="那种守护想守护的事物的强大"><a href="#那种守护想守护的事物的强大" class="headerlink" title="那种守护想守护的事物的强大"></a>那种守护想守护的事物的强大</h5><h5 id="相信自己总有一天能够得到"><a href="#相信自己总有一天能够得到" class="headerlink" title="相信自己总有一天能够得到"></a>相信自己总有一天能够得到</h5><h5 id="朝着崭新的明天出发吧"><a href="#朝着崭新的明天出发吧" class="headerlink" title="朝着崭新的明天出发吧"></a>朝着崭新的明天出发吧</h5><h5 id="跨越喜悦与绝望-急切朝未来前进"><a href="#跨越喜悦与绝望-急切朝未来前进" class="headerlink" title="跨越喜悦与绝望 急切朝未来前进"></a>跨越喜悦与绝望 急切朝未来前进</h5><p>（喜悦与绝望处于对立面，通常情绪不可能转换地这么快，印证了多元论？）<br>我只是“想要知道”<br>一次次的邂逅 学习 抉择的路上</p>
-<p>（邂逅 ：与城市告别，学习：在旅途中学习，抉择：在十二话中有个镜头描写了伊蕾娜在十字路口处的抉择）</p>
-<h5 id="在谁都未曾见过的那一页-编写着"><a href="#在谁都未曾见过的那一页-编写着" class="headerlink" title="在谁都未曾见过的那一页 编写着"></a>在谁都未曾见过的那一页 编写着</h5><p>（的确，该小说完成前，除了伊蕾娜自己，没人见过（如果忽视第八话中玩偶剪掉伊蕾娜头发的话））</p>
-<h5 id="只属于自己的故事"><a href="#只属于自己的故事" class="headerlink" title="只属于自己的故事"></a>只属于自己的故事</h5><h5 id="躲避散发着芳香的花瓣"><a href="#躲避散发着芳香的花瓣" class="headerlink" title="躲避散发着芳香的花瓣"></a>躲避散发着芳香的花瓣</h5><p>（对花海产生阴影）</p>
-<h5 id="眼前出现的那些花言巧语"><a href="#眼前出现的那些花言巧语" class="headerlink" title="眼前出现的那些花言巧语"></a>眼前出现的那些花言巧语</h5><p>（花言巧语——外表温柔实际阴暗险恶的花朵）</p>
-<h5 id="如果想彻底看破真相-那就切勿被其所诱惑"><a href="#如果想彻底看破真相-那就切勿被其所诱惑" class="headerlink" title="如果想彻底看破真相 那就切勿被其所诱惑"></a>如果想彻底看破真相 那就切勿被其所诱惑</h5><h5 id="迎面的强风-身后的和风-皆是我前进路上的伙伴"><a href="#迎面的强风-身后的和风-皆是我前进路上的伙伴" class="headerlink" title="迎面的强风 身后的和风 皆是我前进路上的伙伴"></a>迎面的强风 身后的和风 皆是我前进路上的伙伴</h5><h5 id="开拓那无法预测的未来"><a href="#开拓那无法预测的未来" class="headerlink" title="开拓那无法预测的未来"></a>开拓那无法预测的未来</h5><h5 id="那种实现想实现的愿望的坚强"><a href="#那种实现想实现的愿望的坚强" class="headerlink" title="那种实现想实现的愿望的坚强"></a>那种实现想实现的愿望的坚强</h5><h5 id="相信自己总有一天能够得到-1"><a href="#相信自己总有一天能够得到-1" class="headerlink" title="相信自己总有一天能够得到"></a>相信自己总有一天能够得到</h5><h5 id="朝着崭新的明天出发吧-1"><a href="#朝着崭新的明天出发吧-1" class="headerlink" title="朝着崭新的明天出发吧"></a>朝着崭新的明天出发吧</h5><h5 id="跨越悲痛和幸福-为未来而祈祷"><a href="#跨越悲痛和幸福-为未来而祈祷" class="headerlink" title="跨越悲痛和幸福 为未来而祈祷"></a>跨越悲痛和幸福 为未来而祈祷</h5><h5 id="我仍然“想要知道”"><a href="#我仍然“想要知道”" class="headerlink" title="我仍然“想要知道”"></a>我仍然“想要知道”</h5><h5 id="邂逅-和离别-反反复复-刻在记忆中"><a href="#邂逅-和离别-反反复复-刻在记忆中" class="headerlink" title="邂逅 和离别 反反复复 刻在记忆中"></a>邂逅 和离别 反反复复 刻在记忆中</h5><p>（离别：这里应该指她的朋友，老师，家人等）</p>
-<h5 id="谁都未曾知晓的-只属于自己的故事"><a href="#谁都未曾知晓的-只属于自己的故事" class="headerlink" title="谁都未曾知晓的 只属于自己的故事"></a>谁都未曾知晓的 只属于自己的故事</h5><h5 id="将在这一页-写上句号"><a href="#将在这一页-写上句号" class="headerlink" title="将在这一页 写上句号"></a>将在这一页 写上句号</h5><p>（句号：标志着一个故事的结束 多元论：标志着一个世界线的伊蕾娜故事的结束，下一个肯定还一个活蹦乱跳的伊蕾娜）</p>
-<h3 id="第二部分-画面解析"><a href="#第二部分-画面解析" class="headerlink" title="第二部分:画面解析"></a>第二部分:画面解析</h3><p>（其实也没什么好解析了的，稍微过一下就算了趴）</p>
-<p>首先从全篇来看，ED与OP截然不同，OP走的是可爱路线，但ED主要描写了伊蕾娜的”美貌“，呈现出一种沉重的气氛</p>
-<p>你也看到了，ED一开始描写了一本书，但似乎该书的透明度不高，我们更多所看见的是宫殿的影子</p>
-<p>左边的一页几乎被宫殿占领了，右边也有一定程度的影子，从书的边缘可以看出，这本书是红色的，就说明这本书是《魔女之旅》，伊蕾娜所作。结合上述材料，我们可以认为左边的宫殿是一个国家，</p>
-<p>右边的文字就记述了这个国家的故事，结合歌词可以看出，右边的文字更多描写的是对人生的启示</p>
-<p>然后就是伊蕾娜侧面的画面，该画面中伊蕾娜闭着眼，表情沉重，似乎在思考着今天所经历的故事的启示，结合歌词的却如此</p>
-<p>再然后就是伊蕾娜下身的画面，该画面中伊蕾娜”上号了“，穿上了魔女衣，这魔女衣似乎也是透明的，</p>
-<p>可以看见出第一话中与芙兰老师相遇的地点，歌词多数有更力量，成长有关，应该隐喻了芙兰老师对她成长的影响</p>
-<p>随后画面一转，是魔女帽的镜头，魔女帽上的建筑未知，歌词也主要说明了未来伊蕾娜要怎么走好自己的道路</p>
-<p>再然后就是伊蕾娜骑在扫帚小姐上的镜头，该镜头上的建筑未知，歌词为道路为主</p>
-<p>再再然后就是扫帚小姐的专场了，该镜头的城市应该是第五话中的国家（看到这繁荣的景象可以猜出来），歌词也主要围绕着故事来展开。除了比较好坐之外，你还知道为什么扫帚小姐要”穿“着”衣服“吗？这是不是隐含了什么？没错，虽然在本季中扫帚小姐并没有拟人化，但动漫中已经有要拟人化的趋势了，暗示下一季扫帚小姐有可能会被拟人化（下一季应该会有物品之国的故事，而且应该在前面几话，对了，魔杖小姐什么时候安排一下？）</p>
-<p>最后就是名场面：”爱我请睁眼“，歌词也没有了，在左侧脸的城市未知，伊蕾娜也没有穿上魔女服，只有在睡觉的时候才不会穿上魔女服（第11话除外），从此可知整个ED应该就是伊蕾娜的梦境，歌词多以人生哲理为主，整体气氛略显沉重。</p>
-]]></content>
-      <categories>
-        <category>动漫解析</category>
-        <category>魔女之旅</category>
-      </categories>
-      <tags>
-        <tag>动漫解析</tag>
-        <tag>魔女之旅</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用手册</title>
-    <url>/2021/02/02/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</url>
-    <content><![CDATA[<h1 id="使用手册"><a href="#使用手册" class="headerlink" title="使用手册"></a>使用手册</h1><h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h2><p>本blog基于hexo框架，diaspora主题制作，该blog部分音源来源于网易云音乐，该blog部分图片来源于萌娘百科</p>
-<h2 id="正文："><a href="#正文：" class="headerlink" title="正文："></a>正文：</h2><h3 id="进入："><a href="#进入：" class="headerlink" title="进入："></a>进入：</h3><p>在浏览器输入<a href="https://whitemu-bilibili.github.io/">https://whitemu-bilibili.github.io/</a> 即可导航到此网站，无法访问？请检查：</p>
-<p>1.确保您的网络连接正常，在浏览器输入<a href="http://www.github.com,/">www.github.com，</a> 查看是否可以连接到github服务器</p>
-<p>2.确保您的浏览器为最新版本，推荐使用谷歌内核的浏览器，如Edge等</p>
-<p>3.为获取更好的浏览体验，推荐使用电脑访问此blog</p>
-<p>4.以上方法都没有效果？请尝试使用科学上网访问此blog</p>
-<p>5.以上方法都没有效果？联系我们：<a href="mailto:&#50;&#x38;&#x37;&#x33;&#x34;&#54;&#x34;&#x30;&#57;&#48;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#x6d;">&#50;&#x38;&#x37;&#x33;&#x34;&#54;&#x34;&#x30;&#57;&#48;&#x40;&#x71;&#113;&#46;&#x63;&#111;&#x6d;</a></p>
-<h3 id="主页："><a href="#主页：" class="headerlink" title="主页："></a>主页：</h3><p>点击文章标题即可进入该文章，点击左上角的Logo可快速回到主页</p>
-<p>点击右上角的放大镜按钮即可进入搜索页面</p>
-<p>点击右上角的菜单按钮即可进入菜单</p>
-<h3 id="文章"><a href="#文章" class="headerlink" title="文章:"></a>文章:</h3><p>点击文章标题即可进入该文章的页面，注意：有时候因网络问题会存在无法连接的现象，刷新一下即可</p>
-<p>左上角的主页按钮尚不可用</p>
-<p>左上角的播放按钮可播放bgm，目前可播放：内向的都是作曲家，勾指起誓。在动漫解析文章页面中，则通常都会播放与之相关的bgm，音源来源于：网易云音乐（除以上两首）</p>
-<p>在右上角的扫描按钮可生成该页面的二维码，扫描此二维码即可进入该页面</p>
-<p>在日期下面的则是标签，如本页面的标签为”hexo“，点击后可查看更多该标签下的内容</p>
-<p>评论功能暂时关闭</p>
-<h3 id="搜索："><a href="#搜索：" class="headerlink" title="搜索："></a>搜索：</h3><p>点击主页右上角的放大镜按钮即可进入搜索页面，在搜索页面输入关键词，如”魔女之旅“就可找到相关内容，或者直接搜索文章内的内容，如”我永远喜欢伊蕾娜“，也可找到相关页面</p>
-<h3 id="菜单："><a href="#菜单：" class="headerlink" title="菜单："></a>菜单：</h3><p>点击主页右上角的菜单按钮即可进入菜单</p>
-<p>点击菜单上的按钮即可进入该分类页面，其中：</p>
-<p>分类和标签：其内容都差不多</p>
-<p>归档：可通过世界线查看文章发布的时间（1978除外）</p>
-<p>关于：不可用</p>
-<p>中间的”鸡汤“为一言提供的服务，每次进入都会发送变化</p>
-<p>点击右上角的叉叉按钮即可退出彩蛋</p>
-<p>下面的各按钮（Facebook, github等）不可用</p>
-<h2 id="关于我们："><a href="#关于我们：" class="headerlink" title="关于我们："></a>关于我们：</h2><p>Bilibili: space.bilibili.com/97020216</p>
-<p>更多视频网站链接: whitemu-bilibili.github.io/2020/10/06/Welcome/</p>
-<p>邮箱：<a href="mailto:&#x32;&#x38;&#x37;&#51;&#52;&#54;&#x34;&#48;&#57;&#48;&#64;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;">&#x32;&#x38;&#x37;&#51;&#52;&#54;&#x34;&#48;&#57;&#48;&#64;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;</a>（优先查看） </p>
-<p>如想获取帮助，请给我们发邮件</p>
-<p>感谢您的访问！</p>
-<p>White_mu</p>
-<p>2021/2/2<br>ver: 1.0</p>
-]]></content>
-      <categories>
-        <category>hexo</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
