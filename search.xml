@@ -241,19 +241,7 @@
   <entry>
     <title>文章模板</title>
     <url>/1978/01/01/%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/</url>
-    <content><![CDATA[<pre><code class="bash">$ --- # 基本格式
-$ title: My awesome title # 标题
-$ date: 2016-10-12 18:38:45 # 日期
-$ categories: # 分类
-       - 分类1
-       - 分类2
-$ tags:  # 标签
-       - 标签1
-       - 标签2
-$ mp3: http://domain.com/awesome.mp3 # 背景音乐（已禁用）
-$ cover: http://domain.com/awesome.jpg # 配图
-$ --- # 基本格式
-</code></pre>
+    <content><![CDATA[<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">--- <span class="comment"># 基本格式</span></span><br><span class="line">title: My awesome title <span class="comment"># 标题</span></span><br><span class="line">date: 2016-10-12 18:38:45 <span class="comment"># 日期</span></span><br><span class="line">categories: <span class="comment"># 分类</span></span><br><span class="line">       - 分类1</span><br><span class="line">       - 分类2</span><br><span class="line">tags:  <span class="comment"># 标签</span></span><br><span class="line">       - 标签1</span><br><span class="line">       - 标签2</span><br><span class="line">mp3: http://domain.com/awesome.mp3 <span class="comment"># 背景音乐（已禁用）</span></span><br><span class="line">cover: http://domain.com/awesome.jpg <span class="comment"># 配图</span></span><br><span class="line">--- <span class="comment"># 基本格式</span></span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>hexo</category>
@@ -888,6 +876,166 @@ $ --- # 基本格式
       <tags>
         <tag>动漫解析</tag>
         <tag>魔女之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>积分排行榜</title>
+    <url>/2021/03/06/%E7%A7%AF%E5%88%86%E6%8E%92%E8%A1%8C%E6%A6%9C/</url>
+    <content><![CDATA[<p>这是《冲刺一千粉丝》的积分排行榜<br>恭喜冼俊雨获得一个月大会员</p>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>总分</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>冼俊雨</td>
+<td>21</td>
+</tr>
+<tr>
+<td>9成就</td>
+<td>15</td>
+</tr>
+<tr>
+<td>ffffiio</td>
+<td>14</td>
+</tr>
+<tr>
+<td>长年咕的up主2333</td>
+<td>13</td>
+</tr>
+<tr>
+<td>流星MeteorLiu</td>
+<td>10</td>
+</tr>
+<tr>
+<td>菜鸟_战五渣</td>
+<td>10</td>
+</tr>
+<tr>
+<td>从来不想发视频</td>
+<td>7</td>
+</tr>
+<tr>
+<td>b站MCZhengrui</td>
+<td>6</td>
+</tr>
+<tr>
+<td>双鱼233</td>
+<td>6</td>
+</tr>
+<tr>
+<td>bili_91984090357</td>
+<td>5</td>
+</tr>
+<tr>
+<td>我是杨大侠哦</td>
+<td>5</td>
+</tr>
+<tr>
+<td>bili_88968986924</td>
+<td>5</td>
+</tr>
+<tr>
+<td>flyasyouare</td>
+<td>5</td>
+</tr>
+<tr>
+<td>此用户已永久下线</td>
+<td>5</td>
+</tr>
+<tr>
+<td>我爱重装系统</td>
+<td>5</td>
+</tr>
+<tr>
+<td>深圳车迷-去香港</td>
+<td>4</td>
+</tr>
+<tr>
+<td>L13深圳湾口岸站</td>
+<td>4</td>
+</tr>
+<tr>
+<td>中粮创芯公园北站</td>
+<td>4</td>
+</tr>
+<tr>
+<td>一只可爱的盘子</td>
+<td>4</td>
+</tr>
+<tr>
+<td>墨痕很沉默</td>
+<td>3</td>
+</tr>
+<tr>
+<td>血色梅花19980922</td>
+<td>3</td>
+</tr>
+<tr>
+<td>701路23048</td>
+<td>3</td>
+</tr>
+<tr>
+<td>快乐藕盒盒盒盒_</td>
+<td>2</td>
+</tr>
+<tr>
+<td>L7西丽站</td>
+<td>2</td>
+</tr>
+<tr>
+<td>小焜大大</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Cimanin</td>
+<td>2</td>
+</tr>
+<tr>
+<td>传说中的帅哥</td>
+<td>2</td>
+</tr>
+<tr>
+<td>54朱亖冂</td>
+<td>2</td>
+</tr>
+<tr>
+<td>淡墨之痕</td>
+<td>1</td>
+</tr>
+<tr>
+<td>windows萌新</td>
+<td>1</td>
+</tr>
+<tr>
+<td>快手搜索大胜</td>
+<td>1</td>
+</tr>
+<tr>
+<td>小焜大大</td>
+<td>1</td>
+</tr>
+<tr>
+<td>爱夕秋ZPC</td>
+<td>1</td>
+</tr>
+<tr>
+<td>花落醉星河</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>bilibili</category>
+      </categories>
+      <tags>
+        <tag>bilibili</tag>
       </tags>
   </entry>
 </search>
